@@ -1,0 +1,6 @@
+﻿#Visual Studio无关文件
+.suo
+
+#编译结果文件夹
+bin
+obj
